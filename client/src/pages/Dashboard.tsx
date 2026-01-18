@@ -385,14 +385,7 @@ export default function Dashboard() {
                   <p className="text-2xl md:text-4xl font-mono text-center uppercase tracking-[0.3em] font-black text-white drop-shadow-[0_0_10px_rgba(255,255,255,0.5)]">
                     {protectionReason}
                   </p>
-                  <a 
-                    href="https://t.me/Twhosint" 
-                    target="_blank" 
-                    rel="noopener noreferrer"
-                    className="text-primary hover:text-white underline font-bold animate-pulse text-lg"
-                  >
-                    CONTACT ADMIN TO RESOLVE
-                  </a>
+              
                 </div>
               </div>
 
